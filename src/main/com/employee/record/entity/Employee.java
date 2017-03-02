@@ -2,7 +2,9 @@ package main.com.employee.record.entity;
 import java.io.Serializable;
 
 public class Employee implements Serializable {
-
+    /**
+     * serialVersionUID
+     */
     private static final long serialVersionUID = 1L;
 
     /**
